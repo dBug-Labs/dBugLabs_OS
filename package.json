@@ -1,0 +1,35 @@
+{
+  "name": "certificate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dBug-Labs/dBugLabs_OS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dBug-Labs/dBugLabs_OS/issues"
+  },
+  "homepage": "https://github.com/dBug-Labs/dBugLabs_OS#readme",
+  "description": "",
+  "dependencies": {
+    "jszip": "^3.10.2",
+    "mongodb": "^7.7.0",
+    "next": "^15.5.27",
+    "nodemailer": "^10.0.15",
+    "papaparse": "^5.7.0",
+    "qrcode": "^1.5.4",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  }
+}

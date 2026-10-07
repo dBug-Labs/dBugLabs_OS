@@ -1,0 +1,12 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1920' height='1080' viewBox='0 0 1920 1080'>
+  <rect width='1920' height='1080' fill='#08050a'/>
+  <rect x='40' y='40' width='1840' height='1000' fill='none' stroke='#8b3dff' stroke-width='4' rx='16'/>
+  <rect x='60' y='60' width='1800' height='960' fill='none' stroke='#ff2d4f' stroke-width='1.5' rx='12'/>
+  <text x='960' y='220' font-family='sans-serif' font-size='32' font-weight='800' fill='#ff2d4f' text-anchor='middle' letter-spacing='8'>DBUG LABS</text>
+  <text x='960' y='320' font-family='serif' font-size='64' font-weight='bold' fill='#f4eef6' text-anchor='middle'>CERTIFICATE OF PARTICIPATION</text>
+  <text x='960' y='400' font-family='sans-serif' font-size='22' fill='#a99bad' text-anchor='middle'>THIS IS PROUDLY PRESENTED TO</text>
+  <line x1='560' y1='620' x2='1360' y2='620' stroke='rgba(255,255,255,0.2)' stroke-width='2'/>
+  <text x='960' y='690' font-family='sans-serif' font-size='22' fill='#a99bad' text-anchor='middle'>FOR OUTSTANDING PARTICIPATION AND ACTIVE CONTRIBUTION</text>
+  <text x='160' y='960' font-family='monospace' font-size='16' fill='#76697a'>VERIFIED CREDENTIAL</text>
+  <text x='1650' y='960' font-family='monospace' font-size='16' fill='#76697a' text-anchor='end'>SCAN TO VERIFY</text>
+</svg>

@@ -23,6 +23,7 @@
   "homepage": "https://github.com/dBug-Labs/dBugLabs_OS#readme",
   "description": "",
   "dependencies": {
+    "@vercel/functions": "^3.9.11",
     "jszip": "^3.10.2",
     "mongodb": "^7.7.0",
     "next": "^15.5.27",
